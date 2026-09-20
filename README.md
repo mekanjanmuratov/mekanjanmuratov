@@ -1,14 +1,15 @@
 # Hi, I'm Mekan Janmuratov 👋
 
-**Computer Engineering student** · Turkmenistan → Texas, USA · Fall 2027
+**Incoming Computer Engineering student** · Turkmenistan → Texas, USA · Fall 2027
 
 I'm building toward one goal: **designing the intelligence layer of autonomous machines**
 — robots and embedded systems that sense, decide, and act in the real world.
 Not chatbots. Real machines!
 
 ## 🤖 What I'm Working on
+- **SAT prep (current sole focus)** — targeting a Dec 2, 2026 sitting, aiming for UTA's Presidential Scholarship
 - **Python engineering projects** — OOP tools, sensor simulators, data scripts
-- **Pre-departure prep** — C++, Algebra, calculus, robotics fundamentals
+- **Pre-departure prep** — C++, Algebra, calculus, robotics fundamentals (paused until after the SAT)
 
 ## 🛠 Current Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -16,6 +17,7 @@ Not chatbots. Real machines!
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📚 Currently learning
+![SAT](https://img.shields.io/badge/SAT_Prep-Reading_%7C_Math-8A2BE2?style=flat)
 ![C++](https://img.shields.io/badge/C++-learncpp.com-00599C?style=flat)
 ![Calculus](https://img.shields.io/badge/Calculus_I-Khan_Academy-854F0B?style=flat)
 ![LinAlg](https://img.shields.io/badge/Linear_Algebra-3Blue1Brown-534AB7?style=flat)
@@ -25,14 +27,15 @@ Not chatbots. Real machines!
 | Phase | Timeline | Focus | Status |
 |---|---|---|---|
 | Foundation | May–Jul 2026 | C++, Algebra, Python depth | ✅ Done |
-| Applications | July-August 2026 | University applications | 🔁 In Progress |
-| Systems | Aug–Oct 2026 | Pointers, Calculus, Linear Algebra, hardware | ⏳ Upcoming |
-| University | Spring 2027 | Computer Engineering — Texas, USA | 🎯 Goal |
-| Capstone | Feb–Aug 2027 | ROS 2, ML, autonomous system | ⏳ Upcoming |
+| Applications | Jul–Aug 2026 | University application, term change to Fall 2027 | ✅ Done |
+| Testing | Sep–Dec 2026 | SAT prep (target 1450–1600) | 🔁 In Progress |
+| Systems | Dec 2026–Aug 2027 | Pointers, Calculus, Linear Algebra, hardware, robotics fundamentals | ⏳ Upcoming |
+| University | Fall 2027 | Computer Engineering — UT Arlington | 🎯 Goal |
+| Capstone | 2028+ | ROS 2, ML, autonomous system | ⏳ Upcoming |
 
-## 🎓 Target universities — Spring 2027
-Applying to **UT Arlington (BSCpE)**, and **Texas Tech (BS CpE)**
-for Computer Engineering — focused on AI systems and embedded robotics.
+## 🎓 Target university
+Attending **UT Arlington (BSCpE)** — Fall 2027, Computer Engineering,
+focused on AI systems and embedded robotics. Pursuing the Presidential Scholarship.
 
 ## 📫 Reach me
 🌐 Email: janmyradowm892@gmail.com
